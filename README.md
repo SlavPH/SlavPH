@@ -3,5 +3,6 @@
 **-** 💻 I’m currently learning **Python**, **C++**, **BrainFuck**...                      
 
 # Social Media 
-**Telegram** 📎 https://telegram.me/SlavPH                                 
-**Instagram** 📎 https://instagram.com/theslavph                                 
+**Instagram** https://instagram.com/theslavph                            
+**Telegram** https://telegram.me/SlavPH                                 
+                                 
