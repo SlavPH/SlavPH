@@ -4,5 +4,5 @@
 
 # Social Media 
 **Instagram** https://instagram.com/theslavph                            
-**Telegram** https://telegram.me/SlavPH                                 
+**Telegram** https://telegram.me/TheSlavPH                                 
                                  
