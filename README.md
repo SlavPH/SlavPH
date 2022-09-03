@@ -1,12 +1,3 @@
- ______     __         ______     __   __      ______   __  __                              
-/\  ___\   /\ \       /\  __ \   /\ \ / /     /\  == \ /\ \_\ \                           
-\ \___  \  \ \ \____  \ \  __ \  \ \ \'/      \ \  _-/ \ \  __ \                        
- \/\_____\  \ \_____\  \ \_\ \_\  \ \__|       \ \_\    \ \_\ \_\                         
-  \/_____/   \/_____/   \/_/\/_/   \/_/         \/_/     \/_/\/_/                         
-                                                                                                         
-                                                     
-
-
 
 # Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
