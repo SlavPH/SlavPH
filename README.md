@@ -3,7 +3,7 @@
 
 
 # Trophy
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<href align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)>
 
 # About me
 **❖** 🇷🇺 ʜɪ, ɪ’ᴍ **@SlavPH**                              
