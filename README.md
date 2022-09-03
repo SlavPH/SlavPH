@@ -15,6 +15,9 @@
 
 
 # Social Media 
-**❖ Instagram**    `https://instagram.com/theslavph`                            
-**❖ Telegram**      `https://telegram.me/TheSlavPH`                                 
-                                 
+**Instagram**                                  
+`https://instagram.com/theslavph`                
+
+**Telegram**                                            
+`https://telegram.me/TheSlavPH`                                 
+                                  
