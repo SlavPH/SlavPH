@@ -15,15 +15,13 @@
 
 
 # Social Media
-**Telegram**                                   
-<p align="left">
+**Telegram**    <p align="left">
     <a href=https://t.me/theslavph>
             <img src="https://img.shields.io/badge/TheSlavPH-white?style=flat&logo=telegram" align="center" alt="Telegram" />
     </a>
 </p>
 
-**Instagram**                               
-<p align="left">
+**Instagram**    <p align="left">
     <a href=https://www.instagram.com/theslavph>
             <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=instagram" align="center" alt="Instagram" />
     </a>
