@@ -3,7 +3,11 @@
 **❖** 🇷🇺 Hi, I’m **@SlavPH**                              
 **❖** 💜 I’m interested in **Linux** and **programming**.                          
 **❖** 💻 I’m currently learning **Python**, **C++**, **BrainFuck**...                      
-**❖** 💻 I'm the Linux user
+**❖** 💻 I'm the Linux user                      
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavPH&show_icons=true&locale=en&layout=compact" alt="SlavPH" /
+
 
 # Social Media 
 **❖ Instagram**     [Click](https://instagram.com/theslavph)                            
