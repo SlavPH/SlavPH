@@ -14,10 +14,19 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&locale=en" alt="SlavPH" /></p>
 
 
-# Social Media 
-**Instagram**                                  
-`https://instagram.com/theslavph`                
+# Social Media
+**Telegram**                                   
+<p align="left">
+    <a href=https://t.me/theslavph>
+            <img src="https://img.shields.io/badge/@TheSlavPH-white?style=flat&logo=telegram" align="center" alt="Telegram" />
+    </a>
+</p>
 
-**Telegram**                                            
-`https://telegram.me/TheSlavPH`                                 
-                                  
+**Instagram**                               
+<p align="left">
+    <a href=https://www.instagram.com/theslavph>
+            <img src="https://img.shields.io/badge/@theslavph-white?style=flat&logo=instagram" align="center" alt="Instagram" />
+    </a>
+
+</p>
+
