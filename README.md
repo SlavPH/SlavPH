@@ -1,11 +1,15 @@
+<p align="center">¸,ø¤º°`°º¤ø,¸¸,ø¤º° 𝕾𝖑𝖆𝖛𝕻𝕳 °º¤ø,¸¸,ø¤º°`°º¤ø,¸</p>
+
+
+
 # Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 # About me
-**❖** 🇷🇺 Hi, I’m **@SlavPH**                              
-**❖** 💜 I’m interested in **Linux** and **programming**.                          
-**❖** 💻 I’m currently learning **Python**, **C++**, **BrainFuck**...                      
-**❖** 💻 I'm the Linux user                      
+**❖** 🇷🇺 ʜɪ, ɪ’ᴍ **@SlavPH**                              
+**❖** 💜 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **Linux** ᴀɴᴅ **programming**.                          
+**❖** 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **Python**, **C++**, **BrainFuck**...                      
+**❖** 💻 ɪ'ᴍ ᴛʜᴇ ʟɪɴᴜx ᴜꜱᴇʀ                      
 
 # Top used languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavPH&show_icons=true&locale=en&layout=compact" alt="SlavPH" /></p>                        
