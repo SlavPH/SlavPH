@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 # About me
-**❖** 🇷🇺 ʜɪ, ɪ’ᴍ **@SlavPH**                              
+**❖** 🇷🇺 ʜɪ, ɪ’ᴍ **SlavPH**                              
 **❖** 💜 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **Linux** ᴀɴᴅ **programming**.                          
 **❖** 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **Python**, **C++**, **BrainFuck**...                      
 **❖** 💻 ɪ'ᴍ ᴛʜᴇ ʟɪɴᴜx ᴜꜱᴇʀ                      
