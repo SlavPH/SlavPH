@@ -9,10 +9,7 @@
 **❖** 💻 ɪ'ᴍ ᴛʜᴇ ʟɪɴᴜx ᴜꜱᴇʀ                      
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavPH&show_icons=true&locale=en&layout=compact" alt="SlavPH" /></p>    
-
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&locale=en" alt="SlavPH" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavPH&show_icons=true&locale=en&layout=compact" alt="SlavPH" />    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&locale=en" alt="SlavPH" /></p>
 
 
 # Social Media
