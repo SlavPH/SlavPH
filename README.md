@@ -8,10 +8,9 @@
 **❖** 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **Python**, **C++**, **BrainFuck**...                      
 **❖** 💻 ɪ'ᴍ ᴛʜᴇ ʟɪɴᴜx ᴜꜱᴇʀ                      
 
-# Top used languages
+---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavPH&show_icons=true&locale=en&layout=compact" alt="SlavPH" /></p>                        
-  
-# Account stats
+---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&locale=en" alt="SlavPH" /></p>
 
 
