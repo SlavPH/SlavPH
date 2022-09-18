@@ -8,6 +8,9 @@
 **❖** 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **Python**, **C++**, **BrainFuck**...                      
 **❖** 💻 ɪ'ᴍ ᴛʜᴇ ʟɪɴᴜx ᴜꜱᴇʀ                      
 
+---
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SlavPH&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # Social Media
 <p align="left">
     <a href=https://t.me/theslavph>
