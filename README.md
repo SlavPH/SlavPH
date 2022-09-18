@@ -27,4 +27,5 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavPH&show_icons=true&locale=en&layout=compact" alt="SlavPH" />
 </p>
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SlavPH&theme=radical&layout=compact)](https://wakatime.com/dmitrijkotov634)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SlavPH&theme=radical&layout=compact)](https://wakatime.com/SlavPH)
