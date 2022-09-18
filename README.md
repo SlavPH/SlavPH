@@ -19,4 +19,4 @@
 </p>
 
 ---
-|[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SlavPH&theme=radical&layout=compact)](https://wakatime.com/SlavPH)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|
