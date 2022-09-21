@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, Welcome to my Github</h1> 
 
----
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -31,6 +30,7 @@
 
 <p align="left">
     <p ><img src="https://komarev.com/ghpvc/?username=SlavPH&label=Profile%20views&color=0e75b6&style=flat" alt="SlavPH"/></p>
+	
     <a href=https://t.me/theslavph>
             <img src="https://img.shields.io/badge/TheSlavPH-white?style=flat&logo=telegram" align="center" alt="Telegram" />
     </a>
