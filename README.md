@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, Welcome to my Github</h1> 
 
-# Trophy 
+---
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
