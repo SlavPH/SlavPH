@@ -32,6 +32,9 @@
     <a href=https://www.instagram.com/theslavph>
             <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=instagram" align="center" alt="Instagram" />
     </a>
+    <a href=https://www.twitter.com/TheSlavPH>
+            <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=twitter" align="center" alt="Twitter" />
+    </a>
 </p>
 
 ---
