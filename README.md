@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Welcome to my Github</h1> 
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Welcome to my Github</h1> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -26,10 +26,17 @@
 
 
 ---                                    
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SlavPH&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/SlavPH/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+<a href="https://github.com/SlavPH/github-readme-stats"><img alt="SlavPHr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
+
+<a href="https://github.com/SlavPH/github-readme-activity-graph"><img alt="SlavPH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SlavPH&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+---
 <p align="left">
-    <p ><img src="https://komarev.com/ghpvc/?username=SlavPH&label=Profile%20views&color=0e75b6&style=flat" alt="SlavPH"/></p>
+    <b>ᴠɪꜱɪᴛᴏʀꜱ:</b>
+    <p ><img src="https://komarev.com/ghpvc/?username=SlavPH&label=Visitors%20&color=0e75b6&style=flat" alt="SlavPH"/></p>
+    <b>ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ:</b><br>
     <a href=https://t.me/theslavph>
             <img src="https://img.shields.io/badge/TheSlavPH-white?style=flat&logo=telegram" align="center" alt="Telegram" />
     </a>
@@ -43,12 +50,7 @@
             <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=whatsapp" align="center" alt="WhatsApp" />
     </a>
 </p>
-
- 
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)                               
-
+<br>
+<b>ʙᴜʏ ᴍᴇ ᴀ ᴄᴏꜰꜰᴇᴇ:</b><br>
 <a href="https://www.buymeacoffee.com/slavph5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" ></a>
 
