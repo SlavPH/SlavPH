@@ -8,7 +8,6 @@
   <img alt="Bash" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
   <img alt="Linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
   <img alt="Sublime Text" height="50" width="50" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg"/>
-  <img alt="Robot" height="50" width="50" src="https://www.svgrepo.com/show/69693/robot.svg"/>
 </p>
 
 # About me
