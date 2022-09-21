@@ -2,13 +2,6 @@
 # Trophy 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-<p>
-  <img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="Bash" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
-  <img alt="Linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
-  <img alt="Sublime Text" height="50" width="50" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg"/>
-</p>
 
 # About me
 **❖** 🇷🇺 ʜɪ, ɪ’ᴍ **SlavPH**                              
@@ -21,7 +14,11 @@
   	    <li><b>ᴏꜱ:</b> ᴋᴀʟɪ, ᴀʀᴄʜ, ʙʟᴀᴄᴋ-ᴀʀᴄʜ, xᴇʀᴏ-ʟɪɴᴜx</li>
 	    <li><b>ʟᴀᴘᴛᴏᴘ: </b> ʜᴘ ᴘʀᴏʙᴏᴏᴋ 6475ʙ</li>
 	    <li><b>ᴇᴅɪᴛᴏʀ:</b> ꜱᴜʙʟɪᴍᴇ ᴛᴇxᴛ</li>
-	</ul>	
+	    <br>
+	    <img alt="Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>&nbsp;
+	    <img alt="Bash" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>&nbsp;
+	    <img alt="Linux" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>&nbsp;
+            <img alt="Sublime Text" height="25" width="25" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg"/>
 </details>
 
 
