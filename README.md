@@ -19,6 +19,8 @@
 	    <img alt="Bash" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>&nbsp;
 	    <img alt="Linux" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>&nbsp;
             <img alt="Sublime Text" height="25" width="25" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg"/>
+
+
 </details>
 
 
@@ -40,6 +42,11 @@
     </a>
 </p>
 
+ 
+
+
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)                               
+
+<a href="https://www.buymeacoffee.com/slavph" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" ></a>
 
