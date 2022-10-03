@@ -46,9 +46,6 @@
     <a href=https://www.twitter.com/TheSlavPH>
             <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=twitter" align="center" alt="Twitter" />
     </a>
-    <a href=https://wa.me/+917013296244>
-            <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=whatsapp" align="center" alt="WhatsApp" />
-    </a>
 </p>
 <br>
 <b>ʙᴜʏ ᴍᴇ ᴀ ᴄᴏꜰꜰᴇᴇ:</b><br>
