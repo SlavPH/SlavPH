@@ -36,16 +36,6 @@
 <p align="left">
     <b>ᴠɪꜱɪᴛᴏʀꜱ:</b>
     <p ><img src="https://komarev.com/ghpvc/?username=SlavPH&label=Visitors%20&color=0e75b6&style=flat" alt="SlavPH"/></p>
-    <b>ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ:</b><br>
-    <a href=https://t.me/theslavph>
-            <img src="https://img.shields.io/badge/TheSlavPH-white?style=flat&logo=telegram" align="center" alt="Telegram" />
-    </a>
-    <a href=https://www.instagram.com/theslavph>
-            <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=instagram" align="center" alt="Instagram" />
-    </a>
-    <a href=https://www.twitter.com/TheSlavPH>
-            <img src="https://img.shields.io/badge/theslavph-white?style=flat&logo=twitter" align="center" alt="Twitter" />
-    </a>
 </p>
 <br>
 <b>ʙᴜʏ ᴍᴇ ᴀ ᴄᴏꜰꜰᴇᴇ:</b><br>
