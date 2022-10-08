@@ -1,9 +1,5 @@
 <h1 align="center">GothPH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GothPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-# About me
 
 **❖** 🇷🇺 ʜɪ, ɪ’ᴍ **GothPH**                                             
 **❖** 💜 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **Linux** ᴀɴᴅ **programming**.                                           
@@ -23,9 +19,10 @@
 
 
 </details>
+                                    
+[![trophy](https://github-profile-trophy.vercel.app/?username=GothPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
----                                    
+---  
 <a href="https://github.com/GothPH/github-readme-stats"><img alt="GothPH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GothPH&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/GothPH/github-readme-stats"><img alt="GothPH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GothPH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
 
