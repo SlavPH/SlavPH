@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
+<h1 align="center">GothPH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GothPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
