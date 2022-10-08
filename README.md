@@ -1,5 +1,10 @@
 <h1 align="center">GothPH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
 
+<p align="left">
+    <b>ᴠɪꜱɪᴛᴏʀꜱ:</b>
+    <p ><img src="https://komarev.com/ghpvc/?username=GothPH&label=Visitors%20&color=0e75b6&style=flat" alt="GothPH"/></p>
+</p>
+
 
 **❖** 🇷🇺 ʜɪ, ɪ’ᴍ **GothPH**                                             
 **❖** 💜 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **Linux** ᴀɴᴅ **programming**.                                           
@@ -28,8 +33,3 @@
 
 <a href="https://github.com/GothPH/github-readme-activity-graph"><img alt="GothPH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GothPH&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
----
-<p align="left">
-    <b>ᴠɪꜱɪᴛᴏʀꜱ:</b>
-    <p ><img src="https://komarev.com/ghpvc/?username=GothPH&label=Visitors%20&color=0e75b6&style=flat" alt="GothPH"/></p>
-</p>
