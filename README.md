@@ -12,7 +12,7 @@
 <details>   
   <summary><b> ᴍᴏʀᴇ</b></summary>
     <ul>
-        <li><b>ᴏꜱ:</b> ᴋᴀʟɪ, ᴀʀᴄʜ, ʙʟᴀᴄᴋ-ᴀʀᴄʜ, xᴇʀᴏ-ʟɪɴᴜx</li>
+        <li><b>ᴅɪꜱᴛʀᴏꜱ:</b> ᴋᴀʟɪ, ᴀʀᴄʜ, ʙʟᴀᴄᴋ-ᴀʀᴄʜ, xᴇʀᴏ-ʟɪɴᴜx</li>
         <li><b>ʟᴀᴘᴛᴏᴘ: </b> ʜᴘ ᴘʀᴏʙᴏᴏᴋ 6475ʙ</li>
         <li><b>ᴇᴅɪᴛᴏʀ:</b> ꜱᴜʙʟɪᴍᴇ ᴛᴇxᴛ</li>
         <br>
@@ -24,8 +24,9 @@
 
 </details>
                                     
-[![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
+    
 ---  
 <a href="https://github.com/SlavPH/github-readme-stats"><img alt="SlavPH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SlavPH/github-readme-stats"><img alt="SlavPH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
 
