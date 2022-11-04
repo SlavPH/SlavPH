@@ -1,11 +1,11 @@
-<h1 align="center">GothPH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
+<h1 align="center">привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
 
 <p align="left">
-    <p ><img src="https://komarev.com/ghpvc/?username=GothPH&label=ᴠɪꜱɪᴛᴏʀꜱ%20&color=0e75b6&style=flat" alt="GothPH"/></p>
+    <p ><img src="https://komarev.com/ghpvc/?username=SlavPH&label=ᴠɪꜱɪᴛᴏʀꜱ%20&color=0e75b6&style=flat" alt="SlavPH"/></p>
 </p>
 
 
-**❖** 🇷🇺 ʜɪ, ɪ’ᴍ **GothPH**                                             
+**❖** 🇷🇺 ʜɪ, ɪ’ᴍ **SlavPH**                                             
 **❖** 💜 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **Linux** ᴀɴᴅ **programming**.                                           
 **❖** 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **Python**, **C++**, **BrainFuck**...                                     
 **❖** 💻 ɪ'ᴍ ᴛʜᴇ ʟɪɴᴜx ᴜꜱᴇʀ                           
@@ -24,12 +24,12 @@
 
 </details>
                                     
-[![trophy](https://github-profile-trophy.vercel.app/?username=GothPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SlavPH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---  
-<a href="https://github.com/GothPH/github-readme-stats"><img alt="GothPH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GothPH&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SlavPH/github-readme-stats"><img alt="SlavPH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlavPH&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/GothPH/github-readme-stats"><img alt="GothPH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GothPH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
+<a href="https://github.com/SlavPH/github-readme-stats"><img alt="SlavPH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavPH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
 
-<a href="https://github.com/GothPH/github-readme-activity-graph"><img alt="GothPH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GothPH&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SlavPH/github-readme-activity-graph"><img alt="SlavPH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SlavPH&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
